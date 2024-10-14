@@ -1,0 +1,17 @@
+h1{color: rgb(0, 255, 221);
+font-size: 50px;
+margin-left: 150px;
+}
+
+
+button {background-color:red;}
+
+input {border-color: red;
+border-width: 5px;
+border-style:groove;
+padding: 10px;
+margin:10px;}
+
+img {border:5px solid;
+border-color: red;
+border-width: 5px; }
